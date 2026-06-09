@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mini560_3.3V")(type "KiCad")(uri "${KIPRJMOD}/mini560_3.3V.pretty/mini560_3.3V.kicad_sym")(options "")(descr ""))
+  (lib (name "ponteH")(type "KiCad")(uri "${KIPRJMOD}/ponteH.pretty/ROB-14450.kicad_sym")(options "")(descr ""))
+  (lib (name "LM741")(type "KiCad")(uri "${KIPRJMOD}/LM741CN_NOPB.pretty/LM741CN_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "clock")(type "KiCad")(uri "${KIPRJMOD}/clock.pretty/403WF12012IMR.kicad_sym")(options "")(descr ""))
+)

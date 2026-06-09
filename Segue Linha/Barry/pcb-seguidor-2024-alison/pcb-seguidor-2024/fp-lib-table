@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mini560")(type "KiCad")(uri "${KIPRJMOD}/mini560_3.3V.pretty")(options "")(descr ""))
+  (lib (name "ponteH")(type "KiCad")(uri "/home/alison/git/pcb-seguidor-2024/pcb-seguidor-2024/ponteH.pretty")(options "")(descr ""))
+  (lib (name "LM741")(type "KiCad")(uri "/home/alison/git/pcb-seguidor-2024/pcb-seguidor-2024/LM741CN_NOPB.pretty")(options "")(descr ""))
+  (lib (name "clock")(type "KiCad")(uri "/home/alison/git/pcb-seguidor-2024/pcb-seguidor-2024/clock.pretty")(options "")(descr ""))
+  (lib (name "bateria")(type "KiCad")(uri "${KIPRJMOD}/bateria.pretty")(options "")(descr ""))
+  (lib (name "motor")(type "KiCad")(uri "${KIPRJMOD}/motor.pretty")(options "")(descr ""))
+)
+
